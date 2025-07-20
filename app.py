@@ -98,7 +98,7 @@ class zLocket:
         self.messages = []
         self.proxies = []
         self.proxy_load_time = 0
-        self.proxy_expiry_interval = 15 * 60  # 15 minutes in seconds
+        self.proxy_expiry_interval = 5 * 60  # 15 minutes in seconds
         self._load_and_refresh_proxies()
         self.device_token=device_token
         self.num_threads=num_threads
