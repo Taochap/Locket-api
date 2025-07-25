@@ -1,3 +1,4 @@
+# tntxtrick
 # zLocket Tool API
 
 API Flask được chuyển đổi từ zLocket Tool Pro - công cụ spam kết bạn và xóa yêu cầu kết bạn trên Locket.
@@ -97,4 +98,5 @@ python test_api.py
 ## License
 
 Dựa trên zLocket Tool Pro by @WsThanhDieu
+[ Uống nước nhớ nguồn😏 ]
 
